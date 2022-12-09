@@ -14,32 +14,32 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6281997496643'] //ur owner number
-global.ownername = "𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇" //ur owner name
-global.developer = "𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇" //nama lu
+global.vcardowner = ['6281393160368'] //ur owner number
+global.ownername = "NazrilOfficiall" //ur owner name
+global.developer = "NazrilOfficiall" //nama lu
 global.ytname = "YT: 𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇" //ur yt chanel name
-global.socialm = "https://github.com/AnggaXyzZ" //ur github or insta name
-global.sgc = "https://chat.whatsapp.com/E3l5YxNNUx89ecCRpOoOtO"
-global.location = "Banten" //ur location
+global.socialm = "https://github.com/NazrilOfficiall" //ur github or insta name
+global.sgc = "https://chat.whatsapp.com/KeA2YNkBvddIp70ReuqfKF"
+global.location = "Jateng" //ur location
 
 //bot bomdy 
-global.owner = ['6281997496643'] //ur number
-global.ownernomer = "6281997496643" //ur number
-global.ownertag = '6281997496643' //ur tag number
-global.premium = ['6281997496643'] //ur premium number
-global.botname = '𝗔𝗻𝗴𝗴𝗮𝗕𝗼𝘁𝘇' //ur bot name
-global.ownername = "𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇"
+global.owner = ['6281393160368'] //ur number
+global.ownernomer = "6281393160368" //ur number
+global.ownertag = '6281393160368' //ur tag number
+global.premium = ['6281393160368'] //ur premium number
+global.botname = 'NzrlBotz' //ur bot name
+global.ownername = "NazrilOfficiall"
 global.linkz = "https://youtube.com/@AnggaXyzz" //your theme url which will be displayed on whatsapp
-global.dana = "6281997496643"
-global.gopay = "6281997496643"
-global.pulsa = "6281997496643"
+global.dana = "-"
+global.gopay = "6281393160368"
+global.pulsa = "-"
 global.websitex = "https://youtube.com/@AnggaXyzz" //ur website to be displayed
 global.websitex1 = "https://youtube.com/shorts/N6cPd_V-IME?feature=share"
-global.botscript = 'https://github.com/AnggaXyzZ' //script link
+global.botscript = 'this sc is private 🔐' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "𝗔𝗻𝗴𝗴𝗮𝗕𝗼𝘁𝘇" //ur sticker watermark author
-global.wm = "𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇" //ur watermark
+global.author = "NzrlBotx" //ur sticker watermark author
+global.wm = "NzrlBotz" //ur watermark
 
 // Other
 global.sessionName = 'Session'
